@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品界面艺术指导"
+  short_description: "从任务与内容推导构图、层级和空间节奏，改善真实产品界面的美感与可用性"
+  default_prompt: "使用 $product-art-direction 分析并改造目标产品页面的构图、视觉层级与空间关系，保留真实业务流程，并检查实际渲染效果。"
